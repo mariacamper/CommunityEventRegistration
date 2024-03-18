@@ -1,4 +1,6 @@
-
+body {
+    background: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
 header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url("https://media.istockphoto.com/id/1390893027/photo/portrait-of-a-senior-man-at-home.jpg?b=1&s=612x612&w=0&k=20&c=7NJDJtohptBx5IRB8_DaObjIqjwwCfDXkNelt1lE4Hs=");
     margin: 0 auto;
